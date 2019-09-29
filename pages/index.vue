@@ -6,7 +6,7 @@
         my-nuxt-app
       </h1>
       <h2 class="subtitle">
-        My best Nuxt.js project
+        My best Nuxt.js project deployed on Cloudflare Workers
       </h2>
       <div class="links">
         <a
