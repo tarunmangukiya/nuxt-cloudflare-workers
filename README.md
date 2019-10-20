@@ -20,3 +20,12 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Publish to Cloudflare workers
+
+Change `account_id` in `wrangler.toml` to your Cloudflare account id.
+
+``` bash
+# generate static project & publish it to Cloudflare Workers
+$ npm run publish
+```
