@@ -3,18 +3,12 @@
     <div>
       <logo />
       <h1 class="title">
-        my-nuxt-app
+        my-nuxt-app about
       </h1>
       <h2 class="subtitle">
         My best Nuxt.js project deployed on Cloudflare Workers
       </h2>
       <div class="links">
-        <nuxt-link
-          :to="{ name: 'about' }"
-          class="button--green"
-        >
-          About
-        </nuxt-link>
         <a
           href="https://nuxtjs.org/"
           target="_blank"
