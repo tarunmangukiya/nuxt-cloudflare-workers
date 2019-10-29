@@ -3,25 +3,25 @@
     <div>
       <logo />
       <h1 class="title">
-        my-nuxt-app about
+        Tarun Mangukiya
       </h1>
       <h2 class="subtitle">
-        My best Nuxt.js project deployed on Cloudflare Workers
+        Co-founder of <a href="https://iconscout.com">Iconscout</a>
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/tarunmangukiya"
           target="_blank"
           class="button--grey"
         >
           GitHub
+        </a>
+        <a
+          href="https://twitter.com/tarunmangukiya"
+          target="_blank"
+          class="button--grey"
+        >
+          Twitter
         </a>
       </div>
     </div>

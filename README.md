@@ -1,4 +1,4 @@
-# my-nuxt-app
+# nuxt-cloudflare-workers
 
 > My best Nuxt.js project
 

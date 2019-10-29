@@ -3,7 +3,7 @@ npm i @cloudflare/wrangler -g
 
 wrangler config
 
-npx create-nuxt-app my-nuxt-app
+npx create-nuxt-app nuxt-cloudflare-workers
 
 wrangler init --site
 

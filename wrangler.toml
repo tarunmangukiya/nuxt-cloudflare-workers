@@ -1,5 +1,5 @@
 account_id = "823a7a9b352ff317b2a4ca9e22c96b8f"
-name = "my-nuxt-app"
+name = "nuxt-cloudflare-workers"
 type = "webpack"
 route = ""
 workers_dev = true
