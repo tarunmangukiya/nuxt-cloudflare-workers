@@ -1,6 +1,6 @@
-# nuxt-cloudflare-workers
+# NuxtJS on Cloudflare Workers
 
-> My best Nuxt.js project
+Find full article on how to deploy NuxtJS on Cloudflare at https://scotch.io/tutorials/deploying-a-static-nuxtjs-site-to-cloudflare-workers
 
 ## Build Setup
 
